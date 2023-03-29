@@ -28,8 +28,13 @@
     <!-- Div -->
     <div id="div">
       <?php
-        echo "<h3>Your Input</h3>";
+        echo "<h4>Your Input:</h4>";
       ?>
+
+    <!-- Image -->
+    <center>
+    <img src="./images/trapezoid.png" width="300" length="300" alt="Trapezoid Image">
+    </center>
 
     <!-- Form for user input -->
       <form action="./results.php" method="post" target="display-result">
