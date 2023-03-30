@@ -10,10 +10,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Code for the favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="./fav_index/android-chrome-512x512.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./fav_index/android-chrome-512x512.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./fav_index/android-chrome-512x512.png">
-    <link rel="manifest" href="./fav_index/android-chrome-512x512.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./fav/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./fav/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./fav/android-chrome-512x512.png">
+    <link rel="manifest" href="./fav/android-chrome-512x512.png">
     
     <!-- Stylesheet -->
     <link rel="stylesheet" href="./css/style.css">
